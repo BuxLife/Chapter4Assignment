@@ -1,5 +1,7 @@
 
 import com.buxlife.chapter4assignment.Employee;
+import com.buxlife.chapter4assignment.Person;
+import org.junit.Test;
 
 import static org.junit.Assert.*;
 
@@ -9,11 +11,13 @@ import static org.junit.Assert.*;
 public class EmployeeTest {
     @org.junit.Test
     public void calculateAnnum() throws Exception {
-        Employee emp1 = new Employee("John", "Smith", "Male", 21, 4500.00);
+        Employee emp1 = new Employee(9, "John", "Smith", "Male", 21, 4500.00);
         assertEquals(54000.0, emp1.calculateAnnum(), 0.0f);
     }
-
-    public void testClass() throws Exception    {
-
+    @Test
+    public void testPolymorphism() throws Exception    {
+        Employee emp1 = new Employee(02, "John", "Smith", "Male", 21, 4500.00);
+        Person emp2 = new Employee(01,"John", "Doe", "Male", 22, 9000);
+        System.out.println(emp2.toString());
     }
 }
