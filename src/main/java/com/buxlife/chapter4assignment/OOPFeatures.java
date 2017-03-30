@@ -23,6 +23,7 @@ class OOPFeatures {
 
     }
     public static void composition(){
+        //An alternative to concrete inheritance(using the extends keyword)
         System.out.println("Demonstrates the HAS - A relationship type. Employee HAS-A Duty");
         Employee emp1 = new Employee(2, "Naeem", "Bux", "Male", 24, 100000, "Developer", "Software Developer with mad skillz", 99999, true);
         System.out.println(emp1.toString());

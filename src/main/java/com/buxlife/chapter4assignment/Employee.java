@@ -9,9 +9,10 @@ public class Employee extends Person {
     public Employee(int id, String firstName, String lastName, String gender, int age, double salary, String position, String description, double bonus, boolean leader) {
         super(firstName, lastName, gender, age);
         job = new Duty(position, description, bonus, leader);
-
         setSalary(salary);
         setEmployeeID(id);
+        super.setEmployed(true);
+
     }
 
     public void setEmployeeID(int employeeID) {
@@ -42,7 +43,6 @@ public class Employee extends Person {
     }
 
     public String getJobDetails() {
-
         String pos = "";
         if (job.isLeader()) {
             pos = pos + "Leader";

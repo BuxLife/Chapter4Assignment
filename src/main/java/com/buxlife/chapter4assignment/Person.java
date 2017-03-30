@@ -6,7 +6,7 @@ class Person{
     private String lastName;
     private String gender;
     private int age;
-
+    private boolean isEmployed;
 
     Person(String firstName, String lastName, String gender, int age)
     {
@@ -14,8 +14,16 @@ class Person{
         this.lastName = lastName;
         this.gender = gender;
         this.age = age;
+        isEmployed = false;
     }
 
+    public void setEmployed(boolean employed) {
+        isEmployed = employed;
+    }
+
+    public boolean isEmployed() {
+        return isEmployed;
+    }
 
     public void setFirstName(String firstName) {
         this.firstName = firstName;
