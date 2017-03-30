@@ -6,6 +6,8 @@ public class Customer{
 
     public Customer()
     {
+        Person customer = new Person("Jen","Day", "Female", 24);
+
     }
 
     public void setCustomerID(int customerID) {
