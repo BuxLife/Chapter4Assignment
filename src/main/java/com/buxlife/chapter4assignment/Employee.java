@@ -50,7 +50,7 @@ public class Employee extends Person {
         } else {
             pos = pos + "Member";
         }
-        return "Job Description:\n********************\nPosition: \t\t\t" + job.getPosition() + "\nJob Description: \t" + job.getDescription() + "\nBonus: \t\t\t\t"  + job.getBonus() + "\nAuthority: \t\t\t" + pos;
+        return "\nJob Description:\n********************\nPosition: \t\t\t" + job.getPosition() + "\nJob Description: \t" + job.getDescription() + "\nBonus: \t\t\t\t"  + job.getBonus() + "\nAuthority: \t\t\t" + pos;
 
     }
 }
