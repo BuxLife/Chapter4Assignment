@@ -1,8 +1,5 @@
 
 import com.buxlife.chapter4assignment.Employee;
-import com.buxlife.chapter4assignment.Person;
-import com.sun.org.apache.xml.internal.resolver.readers.ExtendedXMLCatalogReader;
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

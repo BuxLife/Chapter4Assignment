@@ -7,7 +7,7 @@ import static com.buxlife.chapter4assignment.OOPFeatures.*;
  * App Description: Application Demonstration the 3 core features of OOP. Encapsulation, Inheritance & Polymorphism
  *
  */
-public class App 
+class App
 {
     public static void main( String[] args )
     {
@@ -15,7 +15,6 @@ public class App
         polymorphism();         //A demonstration of Polymorphism, using a Person and Employee
         inheritance();          //A demonstration of Inheritance, Superclass Person, Subclass Employee
         composition();          //A demonstration of Composition(An alternative to concrete inheritance), using an object of type Employee and un-extended Class Duty
-
     }
 
 

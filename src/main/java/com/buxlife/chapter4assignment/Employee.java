@@ -4,11 +4,10 @@ public class Employee extends Person {
 
     private int employeeID;
     private double salary;  //Per Month.
-    private Duty job;
+    private final Duty job;
 
     public Employee(int id, String firstName, String lastName, String gender, int age, double salary, String position, String description, double bonus, boolean leader) {
         super(firstName, lastName, gender, age);
-        super.setEmploymentStatus(true);
         job = new Duty(position, description, bonus, leader);
 
         setSalary(salary);
@@ -45,7 +44,7 @@ public class Employee extends Person {
     public String getJobDetails() {
 
         String pos = "";
-        if (job.isLeader() == true) {
+        if (job.isLeader()) {
             pos = pos + "Leader";
         } else {
             pos = pos + "Member";
