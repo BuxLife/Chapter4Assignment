@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c8a43bb-60c6-4cd3-9559-27a8b71a4c06" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Customer.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PlayInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Player.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/buxlife/chapter4assignment/PlayerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/PlayInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/buxlife/chapter4assignment/Player.class" afterPath="" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/buxlife/chapter4assignment/Employee.class" afterPath="$PROJECT_DIR$/target/classes/com/buxlife/chapter4assignment/Employee.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/EmployeeTest.class" afterPath="$PROJECT_DIR$/target/test-classes/EmployeeTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -33,6 +42,7 @@
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
               <caret line="33" column="0" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="33" selection-end-column="0" />
               <folding>
@@ -42,6 +52,17 @@
                 <element signature="e#770#771#0" expanded="true" />
                 <element signature="e#803#804#0" expanded="true" />
                 <element signature="e#832#833#0" expanded="true" />
+=======
+            <state relative-caret-position="311">
+              <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+              <folding>
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
               </folding>
             </state>
           </provider>
@@ -65,8 +86,13 @@
       <file leaf-file-name="EmployeeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/EmployeeTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="297">
               <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+=======
+            <state relative-caret-position="357">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#testPolymorphism#0;class#EmployeeTest#0" expanded="false" />
@@ -79,8 +105,13 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Person.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="83">
               <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+=======
+            <state relative-caret-position="34">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
               <folding>
                 <element signature="e#485#486#0" expanded="true" />
                 <element signature="e#527#528#0" expanded="true" />
@@ -138,12 +169,19 @@
         <option value="$PROJECT_DIR$/Employee.java" />
         <option value="$PROJECT_DIR$/Person.java" />
         <option value="$PROJECT_DIR$/Player.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Person.java" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PlayInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Customer.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/buxlife/chapter4assignment/PlayerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Employee.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Person.java" />
+=======
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
         <option value="$PROJECT_DIR$/src/test/java/EmployeeTest.java" />
       </list>
     </option>
@@ -302,8 +340,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.EmployeeTest.testEncapsulation">
     <configuration default="false" name="PlayerTest.testPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="JUnit.EmployeeTest.testPolymorphism">
+    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.buxlife.chapter4assignment.*" />
@@ -400,6 +443,74 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
       <option name="METHOD_NAME" value="testEncapsulation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PlayerTest.testPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.buxlife.chapter4assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Chapter4Assignment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.buxlife.chapter4assignment" />
+      <option name="MAIN_CLASS_NAME" value="com.buxlife.chapter4assignment.PlayerTest" />
+      <option name="METHOD_NAME" value="testPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="EmployeeTest.testClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Chapter4Assignment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <option name="METHOD_NAME" value="testClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="EmployeeTest.testPolymorphism" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Chapter4Assignment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <option name="METHOD_NAME" value="testPolymorphism" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -801,19 +912,34 @@
       <method />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="JUnit.PlayerTest.testPlay" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testClass" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testPolymorphism" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testInheritance" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testEncapsulation" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeTest.calculateAnnum" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PlayerTest.testPlay" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testClass" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testPolymorphism" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testPolymorphism" />
+<<<<<<< HEAD
         <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testEncapsulation" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testInheritance" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testClass" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.PlayerTest.testPlay" />
+=======
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeTest.testClass" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PlayerTest.testPlay" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeTest.calculateAnnum" />
+        <item index="4" class="java.lang.String" itemvalue="Application.App" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
       </list>
     </recent_temporary>
   </component>
@@ -831,11 +957,16 @@
       <option name="presentableId" value="Default" />
       <updated>1490730613260</updated>
       <workItem from="1490730616407" duration="641000" />
+<<<<<<< HEAD
       <workItem from="1490739622039" duration="19205000" />
+=======
+      <workItem from="1490739622039" duration="16588000" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="EmployeeTest_testEncapsulation - 2017.03.30 at 01h 51m 30s.xml">
       <configuration name="EmployeeTest.testEncapsulation" configurationId="JUnit" />
     </history-entry>
@@ -869,6 +1000,41 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="19846000" />
+=======
+    <history-entry file="EmployeeTest_testClass - 2017.03.30 at 00h 40m 40s.xml">
+      <configuration name="EmployeeTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testClass - 2017.03.30 at 00h 50m 50s.xml">
+      <configuration name="EmployeeTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testClass - 2017.03.30 at 00h 50m 55s.xml">
+      <configuration name="EmployeeTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testClass - 2017.03.30 at 00h 51m 12s.xml">
+      <configuration name="EmployeeTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testClass - 2017.03.30 at 00h 55m 54s.xml">
+      <configuration name="EmployeeTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testClass - 2017.03.30 at 00h 56m 57s.xml">
+      <configuration name="EmployeeTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testPolymorphism - 2017.03.30 at 00h 57m 26s.xml">
+      <configuration name="EmployeeTest.testPolymorphism" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testPolymorphism - 2017.03.30 at 00h 57m 59s.xml">
+      <configuration name="EmployeeTest.testPolymorphism" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testPolymorphism - 2017.03.30 at 01h 01m 30s.xml">
+      <configuration name="EmployeeTest.testPolymorphism" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_testPlay - 2017.03.30 at 00h 39m 54s.xml">
+      <configuration name="PlayerTest.testPlay" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17229000" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1370" height="772" extended-state="0" />
@@ -877,14 +1043,22 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5030534" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26590538" sideWeight="0.49694657" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26590538" sideWeight="0.49694657" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52365416" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -944,7 +1118,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+<<<<<<< HEAD
       <option name="time" value="4" />
+=======
+      <option name="time" value="2" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1014,6 +1192,7 @@
         <state relative-caret-position="256">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -1042,13 +1221,20 @@
             <element signature="e#803#804#0" expanded="true" />
             <element signature="e#832#833#0" expanded="true" />
           </folding>
+=======
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Person.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="83">
           <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+=======
+        <state relative-caret-position="34">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
           <folding>
             <element signature="e#485#486#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
@@ -1078,6 +1264,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -1086,6 +1273,42 @@
             <element signature="imports" expanded="true" />
             <element signature="method#testPolymorphism#0;class#EmployeeTest#0" expanded="false" />
             <element signature="method#testInheritance#0;class#EmployeeTest#0" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 47aa853ab92eb739b577940fd5a03d0230a7fbb3
           </folding>
         </state>
       </provider>
