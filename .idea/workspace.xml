@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c8a43bb-60c6-4cd3-9559-27a8b71a4c06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPBadExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPGoodExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKGoodAndBadExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="ISPBadExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPBadExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="-199">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="class#BadPainter#0" expanded="false" />
                 <element signature="e#253#254#0" expanded="true" />
@@ -59,7 +58,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ISPGoodExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PLKGoodAndBadExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKGoodAndBadExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISPGoodExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPGoodExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -142,9 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/buxlife/chapter4assignment/PlayerTest.java" />
-        <option value="$PROJECT_DIR$/Duty.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Duty.java" />
         <option value="$PROJECT_DIR$/src/test/java/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/buxlife/chapter4assignment/AppTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -193,6 +204,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/LSP/DemoLSP.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPBadExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPGoodExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKGoodExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKBadExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKGoodAndBadExample.java" />
       </list>
     </option>
   </component>
@@ -325,37 +339,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ISP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter4Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter4Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter4assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DIP" />
+              <option name="myItemId" value="PLK" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -924,7 +908,7 @@
       <workItem from="1490739622039" duration="16588000" />
       <workItem from="1490836579519" duration="12889000" />
       <workItem from="1490890982091" duration="28536000" />
-      <workItem from="1490985165172" duration="8949000" />
+      <workItem from="1490985165172" duration="11197000" />
     </task>
     <servers />
   </component>
@@ -961,7 +945,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67603000" />
+    <option name="totallyTimeSpent" value="69851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="780" extended-state="0" />
@@ -976,13 +960,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5232" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5394525" sideWeight="0.49694657" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5394525" sideWeight="0.49694657" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5217391" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5217391" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25872535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25948405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1048,20 +1032,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Customer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#950#951#0" expanded="false" />
-            <element signature="e#982#983#0" expanded="false" />
-            <element signature="e#1081#1082#0" expanded="false" />
-            <element signature="e#1110#1111#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1411,10 +1381,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPGoodExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPBadExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="-199">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="class#BadPainter#0" expanded="false" />
             <element signature="e#253#254#0" expanded="true" />
@@ -1436,23 +1427,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/ISP/ISPGoodExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKBadExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/buxlife/chapter4assignment/PLK/PLKGoodAndBadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
