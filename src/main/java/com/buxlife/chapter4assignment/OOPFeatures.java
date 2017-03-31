@@ -4,6 +4,7 @@ package com.buxlife.chapter4assignment;
  * Created by Bux_Life on 2017/03/30.
  */
 class OOPFeatures {
+
     public static void polymorphism(){
         Person emp = new Employee(1,"John", "Doe", "Male", 22, 9000, "Developer", "Software Developer", 2500, true);
         System.out.println("An Example of Polymorphism. EMPLOYEE-IS A-PERSON");
@@ -12,11 +13,11 @@ class OOPFeatures {
 
     }
     public static void inheritance(){
+        System.out.println("Demonstrates the IS-A relationship type. Employee IS-A Person");
         Employee emp1 = new Employee(2, "John", "Smith", "Male", 21, 4500.00, "Developer", "Software Developer with Skillz", 2500, true);
         Person emp2 = new Employee(1,"John", "Doe", "Male", 22, 9000, "Developer", "Software Developer", 2500, true);
 
-        //.getLastName() and getFirstName() are methods created within the parent class. Inherited by subClasses emp1 and emp2.
-
+        //getLastName() and getFirstName() are methods created within the parent class. Inherited by subClasses emp1 and emp2.
         System.out.println("Employee " + emp1.getLastName() + emp1.getFirstName() + "is an instance of Person = " + (emp1 instanceof Person));
         System.out.println("Employee " + emp2.getLastName() + emp2.getFirstName() + "is an instance of Person = " + (emp2 instanceof Person));
 

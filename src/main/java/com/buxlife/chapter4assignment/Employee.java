@@ -52,4 +52,9 @@ public class Employee extends Person {
         return "\nJob Description:\n********************\nPosition: \t\t\t" + job.getPosition() + "\nJob Description: \t" + job.getDescription() + "\nBonus: \t\t\t\t"  + job.getBonus() + "\nAuthority: \t\t\t" + pos;
 
     }
+
+    @Override
+    public boolean isEmployed() {
+        return super.isEmployed();
+    }
 }

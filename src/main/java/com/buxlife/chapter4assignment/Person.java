@@ -1,6 +1,6 @@
 package com.buxlife.chapter4assignment;
 
-class Person{
+public class Person{
 
     private String firstName;
     private String lastName;
@@ -49,11 +49,11 @@ class Person{
         return lastName;
     }
 
-    String getGender() {
+    public String getGender() {
         return gender;
     }
 
-    int getAge() {
+    public int getAge() {
         return age;
     }
 

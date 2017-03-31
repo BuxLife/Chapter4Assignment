@@ -9,4 +9,5 @@ public class FinanceService {
     public void updateSalary(Employee employee, double salary) {
             employee.setSalary(salary);
     }
+
 }
